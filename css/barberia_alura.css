@@ -1,0 +1,105 @@
+/* ===============
+    Aumenta o espa-
+    çamento inerno
+    à esquerda    
+   =============== */
+.titulo-principal {
+    padding-left: 20px;
+}
+
+/* ===============
+    Largura definida 
+    em 100%   
+   =============== */
+
+#banner {
+    width: 100%;
+}
+
+/* ===============
+    Formatação da
+    seção principal    
+   =============== */
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+/* ===============
+    Deixa o título
+    centralizado
+   =============== */
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+/* ===============
+    Centraliza o 
+    texto do parágrafo
+   =============== */
+
+.texto-centralizado {
+    text-align: center;
+}
+
+/* ===============
+    Centraliza o 
+    texto da missao
+   =============== */
+
+#missao-centralizada {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* ===============
+    Cor do texto
+    mudada para 
+    vermelho
+   =============== */
+
+em strong {
+    color: red;
+}
+
+/* ===============
+    Formatação da
+    seção benefícios
+   =============== */
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+/* ===============
+    Formatação da
+    lista não ordenada
+   =============== */
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+/* ===============
+    Deixa os itens
+    da lista em itálico
+   =============== */
+
+.items {
+    font-style: italic;
+}
+
+/* ===============
+    Aumenta a largura
+    da imagem
+   =============== */
+
+.imagem-beneficios {
+    width: 50%;
+}
